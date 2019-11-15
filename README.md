@@ -1,5 +1,5 @@
 # Performant cross-platform ML/DNN model inferencing on cloud and edge with ONNX Runtime
-In this workshop, we will demonstrate how to train PyTorch and Scikit-Learn machine learning models, convert them to the [ONNX](onnx.ai/) format, and inference the converted model with [ONNX Runtime](https://github.com/microsoft/onnxruntime). Finally, we will deploy the models to Azure as a hosted service. 
+In this workshop, we will demonstrate how to train PyTorch and Scikit-Learn machine learning models, convert them to the [ONNX](onnx.ai/) format, and inference the converted model with [ONNX Runtime](https://aka.ms/onnxruntime). Finally, we will deploy the models to Azure as a hosted service using Azure Machine Learning in order 
 
 ## Pre-Requisites
 You will need an Azure subscription for this workshop. When you [sign up for a new account](https://azure.microsoft.com/en-us/free/), you can get $200 free credit for the first 30 days. You **will not** be automatically charged after the credits are used up and/or the trial period ends. You must explicitly upgrade your free account to a pay-as-you-go plan to continue using Azure after the 30-day trial. Credit card information is only used for identity validation. For more questions about the free trial period, please check the [FAQ](https://azure.microsoft.com/en-us/free/free-account-faq/).
