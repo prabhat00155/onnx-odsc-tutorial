@@ -21,7 +21,7 @@ Alternatively, when you [sign up for a new Azure trial](https://azure.microsoft.
   * Select the VM type: we suggest using **STANDARD_D3_V2 --- 4 vCPUs, 14 GB memory, 200 GB storage**
 3. Open Jupyter on the Notebook VM
 4. From Jupyter, click on "New" -> "Terminal" and then clone this repository by copy/pasting or typing `git clone https://github.com/prabhat00155/onnx-odsc-tutorial.git'
-5. Open up [pytorch experiment.ipynb](./pytorch experiment.ipynb) and let's begin!
+5. Open up [pytorch experiment-exercise.ipynb](./pytorch%20experiment-exercise.ipynb) and let's begin!
 
 ## Additional Resources	
 See [additional resources](./additional-resources.md). The slides shared today are available under [ODSC Europe 2019 - Slides.pdf](./ODSC%20Europe%202019%20-%20Slides.pdf)
