@@ -2,7 +2,7 @@
 In this workshop, we will train Machine Learning models using popular frameworks and convert them to the interoperable [ONNX](onnx.ai/) format, then inference the converted model using the open sourced [ONNX Runtime](https://aka.ms/onnxruntime). We'll then demonstrate how to deploy the ONNX model as a hosted webservice using [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/).
 
 ## Pre-Requisites
-You will need an Azure subscription for this workshop. For attendees of ODSC Europe 2019, we have provided complimentary $50 Azure passes. Go to [www.microsoftazurepass.com](www.microsoftazurepass.com) to redeem your Azure credit. The value is good for 30 days or until all credit has been used up. You will need a Microsoft Account to redeem your Azure credit. You can use your existing Microsoft Account or create a new one. Please follow the instructions on the page, and refer to [this page](https://www.microsoftazurepass.com/Home/HowTo) for full details on how to redeem your pass.
+You will need an Azure subscription for this workshop. For attendees of ODSC Europe 2019, we have provided complimentary $50 Azure passes. Go to [www.microsoftazurepass.com](https://www.microsoftazurepass.com) to redeem your Azure credit. The value is good for 30 days or until all credit has been used up. You will need a Microsoft Account to redeem your Azure credit. You can use your existing Microsoft Account or create a new one. Please follow the instructions on the page, and refer to [this page](https://www.microsoftazurepass.com/Home/HowTo) for full details on how to redeem your pass.
 
 *Note: the credit cannot be redeemed for existing Azure subscriptions*
 
