@@ -1,4 +1,6 @@
 Pillow
+azureml
+azureml-sdk
 jupyter
 numpy
 onnx
