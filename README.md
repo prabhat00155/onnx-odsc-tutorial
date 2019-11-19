@@ -24,4 +24,4 @@ Alternatively, when you [sign up for a new Azure trial](https://azure.microsoft.
 5. Open up [pytorch experiment.ipynb](./pytorch experiment.ipynb) and let's begin!
 
 ## Additional Resources	
-See [additional resources](../additional-resources.md). The slides shared today are available under [ODSC Europe 2019 - Slides.pdf](./ODSC%20Europe%202019%20-%20Slides.pdf]
+See [additional resources](./additional-resources.md). The slides shared today are available under [ODSC Europe 2019 - Slides.pdf](./ODSC%20Europe%202019%20-%20Slides.pdf)
