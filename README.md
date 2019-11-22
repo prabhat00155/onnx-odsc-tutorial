@@ -16,7 +16,7 @@ Alternatively, when you [sign up for a new Azure trial](https://azure.microsoft.
     * name = choose a name for your workspace...e.g. "odsc-[yourname]"
     * subscription = your subscription name
     * resource group -> create a new resource group, you can name it something like "my-rg"
-2. Open your workspace. Now we will create a NotebookVM. The NotebookVM has Python and Jupyter Notebooks pre-installed to make it an easy ready-to-use workspace.
+2. Open your Machine Learning workspace. You may launch the new Azure Machine Learning studio from there. We then click on Compute tab on the left hand side(under 'Manage' in the new portal and under 'Assets' in the old). Now we will create a NotebookVM by clicking new, naming the notebook VM and selecting a notebook configuration. The NotebookVM has Python and Jupyter Notebooks pre-installed to make it an easy ready-to-use workspace.
   * Select a name for your Notebook VM
   * Select the VM type: we suggest using **STANDARD_D3_V2 --- 4 vCPUs, 14 GB memory, 200 GB storage**
 3. Open Jupyter on the Notebook VM
